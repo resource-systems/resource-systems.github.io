@@ -1,0 +1,119 @@
+body,
+textarea,
+input {
+    font-family: Avenir !important;
+    font-size: 15px;
+}
+
+body {
+
+    user-select: none;
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+
+.rc-content-box {
+    background: white;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 64px;
+    padding: 64px;
+    border-radius: 12px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.4);
+}
+
+.feature-box h3 {
+    font-size: 19px;
+    line-height: auto;
+}
+
+body .button.button-secondary {
+    background: #e23d89;
+    color: white;
+}
+
+div.feature-box p {
+    margin-top: 8px !important;
+}
+
+html body {
+    padding: 32px;
+    padding-top: 0px;
+}
+
+body {
+    background: rgb(60,123,199);
+    background: linear-gradient(90deg, rgba(60,123,199,1) 0%, rgba(86,167,210,1) 35%, rgba(44,141,176,1) 100%);
+    color: white;
+}
+
+body .text-color-gray {
+    color: white !important;
+    opacity:0.9;
+}
+
+body #header .logo {
+    position: relative;
+    top: 14px;
+}
+
+ul.nav-primary ul a {
+    color: black !important;
+}
+
+body #content .content-row {
+    background: none;
+    color: white;
+}
+
+body a {
+    color: white;
+    font-weight: bold;
+}
+
+body .feature-box .feature-header {
+    background-color: #2a586f;
+}
+
+body #header {
+    background-color: transparent;
+}
+
+body .icon-feature {
+    color: #1e4e63;
+    opacity: 0.68;
+}
+
+body .feature-box .icon-feature {
+    color: white;
+    opacity: 0.9;
+}
+
+body .feature-box .feature-header {
+    background-color: #1e4e63;
+    opacity: 0.5;
+}
+
+body .feature-box .feature-content {
+    border:none;
+}
+
+body h1 {
+    font-weight: bold;
+}
+
+body img.image {
+    border: none;
+    box-shadow: 4px 4px 21px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+}
+
+header#header {
+    position: relative;
+    height:68px;
+    z-index: 1000;
+}
